@@ -34,4 +34,5 @@ Each Jupyter notebook in the repository is self-contained with instructions and 
 - The CLIP Vision Transformer model outperformed other models with an RMSE of 0.82.
 - Detailed performance analysis and comparisons are available within each notebook in the `Other attempts/` folder.
 - Results of Clip Vision Transformer:
-- 
+  ![Result](Result.png)
+
